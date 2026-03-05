@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.test{
+    color: rgba(0, 98, 255, 0.501);
+}
+
+html{
+    scroll-behavior: smooth;
+}
